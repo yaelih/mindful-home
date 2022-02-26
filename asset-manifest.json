@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mindful-home/static/css/main.a846bb98.css",
+    "main.js": "/mindful-home/static/js/main.f8dfd048.js",
+    "index.html": "/mindful-home/index.html",
+    "main.a846bb98.css.map": "/mindful-home/static/css/main.a846bb98.css.map",
+    "main.f8dfd048.js.map": "/mindful-home/static/js/main.f8dfd048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a846bb98.css",
+    "static/js/main.f8dfd048.js"
+  ]
+}
