@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/mindful-home/static/css/main.18c3b568.css",
-    "main.js": "/mindful-home/static/js/main.49778053.js",
+    "main.css": "/mindful-home/static/css/main.8d97a786.css",
+    "main.js": "/mindful-home/static/js/main.1b1ab90d.js",
     "static/media/OpenSans-Regular.ttf": "/mindful-home/static/media/OpenSans-Regular.57cd57a648021fa1c396.ttf",
     "static/media/OpenSans-Bold.ttf": "/mindful-home/static/media/OpenSans-Bold.a0fe34bea92d4e1a84d6.ttf",
     "static/media/logo.svg": "/mindful-home/static/media/logo.351bb2ad7771233603a79cc356898460.svg",
     "index.html": "/mindful-home/index.html",
-    "static/media/account_circle_white_24dp.svg": "/mindful-home/static/media/account_circle_white_24dp.5c6ad16365aa988fc08d733018f1ff8e.svg",
-    "static/media/menu_white_24dp.svg": "/mindful-home/static/media/menu_white_24dp.389fd00157af0515fd566758a98a4bfb.svg",
-    "static/media/chevron_left_black_24dp.svg": "/mindful-home/static/media/chevron_left_black_24dp.679abe67f4405f8f8e59b7d557e55c0c.svg",
-    "static/media/chevron_right_black_24dp.svg": "/mindful-home/static/media/chevron_right_black_24dp.f8e1e161470b5a2a5d74777f28ba96c4.svg",
-    "main.18c3b568.css.map": "/mindful-home/static/css/main.18c3b568.css.map",
-    "main.49778053.js.map": "/mindful-home/static/js/main.49778053.js.map"
+    "static/media/hamburger.svg": "/mindful-home/static/media/hamburger.c0a953605d4462e58e4edf378e997049.svg",
+    "main.8d97a786.css.map": "/mindful-home/static/css/main.8d97a786.css.map",
+    "main.1b1ab90d.js.map": "/mindful-home/static/js/main.1b1ab90d.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c3b568.css",
-    "static/js/main.49778053.js"
+    "static/css/main.8d97a786.css",
+    "static/js/main.1b1ab90d.js"
   ]
 }
